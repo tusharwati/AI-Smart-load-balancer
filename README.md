@@ -1,21 +1,21 @@
-# 🚀 AI-Based Smart Load Balancer
+# AI-Based Smart Load Balancer
 
 An intelligent **AI-powered Load Balancer** that optimizes network traffic by routing incoming requests to the most suitable server based on real-time server metrics. The system compares **AI-based routing** with traditional load balancing algorithms such as **Round Robin** and **Least Connections**.
 
 ---
 
-## ✨ Features
+## Features
 
-- 🤖 AI-based server selection using Machine Learning
-- 🔄 Traditional routing algorithms (Round Robin & Least Connections)
-- 📊 Real-time server monitoring (Load, Latency, Active Connections)
-- 📈 Interactive dashboard for traffic visualization
-- 📜 Request logging and performance tracking
-- ⚡ Dynamic server load simulation
+-  AI-based server selection using Machine Learning
+-  Traditional routing algorithms (Round Robin & Least Connections)
+-  Real-time server monitoring (Load, Latency, Active Connections)
+-  Interactive dashboard for traffic visualization
+-  Request logging and performance tracking
+-  Dynamic server load simulation
 
 ---
 
-## 🛠️ Technologies
+## Technologies
 
 - **Backend:** Python, Flask
 - **Machine Learning:** Scikit-learn, NumPy
@@ -24,7 +24,7 @@ An intelligent **AI-powered Load Balancer** that optimizes network traffic by ro
 
 ---
 
-## 🏗️ System Workflow
+##  System Workflow
 
 ```
 Client Request
@@ -44,7 +44,7 @@ Response to Client
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ```bash
 git clone https://github.com/yourusername/AI-Smart-Load-Balancer.git
@@ -63,7 +63,7 @@ http://127.0.0.1:5000
 
 ---
 
-## 📊 Project Highlights
+##  Project Highlights
 
 - Developed an AI-based traffic routing system using **Machine Learning**.
 - Optimizes request distribution based on **server load, latency, and active connections**.
@@ -72,7 +72,7 @@ http://127.0.0.1:5000
 
 ---
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 - Docker & Kubernetes Deployment
 - Cloud Integration (AWS/Azure)
@@ -81,8 +81,8 @@ http://127.0.0.1:5000
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
-**Tushar Wati**
+**Tushar Watti**
 
 GitHub: https://github.com/tusharwati
